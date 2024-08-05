@@ -46,7 +46,7 @@ const theme = createTheme({
                     '&.searchInput': {
                         '.MuiInputBase-root': {
                             backgroundColor: '#292B2F',
-                            minWidth: '300px',
+                            // minWidth: '300px',
                             '.MuiInputAdornment-root': {
                                 color: '#fff',
                             },
